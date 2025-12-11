@@ -129,7 +129,8 @@
 
 #### 2.2. Container Diagram (C4 Level 2)
 
-<img width="551" height="799" alt="image" src="https://github.com/user-attachments/assets/fdcabeaa-4837-4943-b324-70d330b0fa88" />
+<img width="763" height="917" alt="image" src="https://github.com/user-attachments/assets/73ceebae-2bbe-4424-ab57-faf2caf6247b" />
+
 
 
 ### 3. Контракты API + Ожидаемые нефункциональные требования на время отклика
