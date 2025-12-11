@@ -123,11 +123,13 @@
 
 #### 2.1. System Context Diagram (C4 Level 1)
 
-![image-20251008203238224](readmeFiles/images/image-20251204161046455.png)
+<img width="799" height="488" alt="image" src="https://github.com/user-attachments/assets/3a5f5cc3-9b49-41bb-94b2-d86288be5094" />
+
 
 #### 2.2. Container Diagram (C4 Level 2)
 
-![image-20251008203435416](readmeFiles/images/image-20251204161937183.png))
+<img width="551" height="799" alt="image" src="https://github.com/user-attachments/assets/fdcabeaa-4837-4943-b324-70d330b0fa88" />
+
 
 ### 3. Контракты API + Ожидаемые нефункциональные требования на время отклика
 
@@ -156,7 +158,8 @@
 
 ### 4. Схема базы данных + почему она выдержит нефункциональные требования
 
-![](readmeFiles/images/image-20251204162111431.png)
+<img width="799" height="322" alt="image" src="https://github.com/user-attachments/assets/eb8e1d1c-8c98-4ff9-a6fb-694d10baa18f" />
+
 
 #### 4.1. Почему схема выдержит нагрузку:
 
