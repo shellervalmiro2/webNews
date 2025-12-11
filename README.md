@@ -123,7 +123,8 @@
 
 #### 2.1. System Context Diagram (C4 Level 1)
 
-<img width="799" height="488" alt="image" src="https://github.com/user-attachments/assets/3a5f5cc3-9b49-41bb-94b2-d86288be5094" />
+<img width="636" height="392" alt="image" src="https://github.com/user-attachments/assets/23b8fd96-5c97-452a-b447-a6bc0b351911" />
+
 
 
 #### 2.2. Container Diagram (C4 Level 2)
