@@ -160,7 +160,8 @@
 
 ### 4. Схема базы данных + почему она выдержит нефункциональные требования
 
-<img width="799" height="322" alt="image" src="https://github.com/user-attachments/assets/eb8e1d1c-8c98-4ff9-a6fb-694d10baa18f" />
+<img width="1176" height="471" alt="image-20251204162111431" src="https://github.com/user-attachments/assets/b4dfcd84-dd2c-4def-93a5-b0e0ff5567f7" />
+
 
 
 #### 4.1. Почему схема выдержит нагрузку:
