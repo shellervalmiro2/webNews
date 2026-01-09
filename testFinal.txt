@@ -1,0 +1,8 @@
+Direction:
+cd /d "D:\shell\fifth Semester\kpo\myWebNews\webNews"
+
+Test:
+C:\xampp\php\php.exe demo_load_test.php
+
+Report:
+C:\xampp\php\php.exe final_load_test_report.php
