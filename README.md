@@ -197,3 +197,13 @@
 
 - Асинхронная обработка через очередь (RabbitMQ/Kafka)
 - Идемпотентность запросов
+
+
+#### 6. Результат тестирования
+<img width="832" height="486" alt="image" src="https://github.com/user-attachments/assets/d2b13506-e7ca-49cb-85d1-52ff704a6cb4" />
+
+
+<img width="872" height="785" alt="image" src="https://github.com/user-attachments/assets/30e17bed-41e6-418d-affc-db9a0fa695be" />
+<img width="867" height="310" alt="image" src="https://github.com/user-attachments/assets/04bf9d77-6136-4864-8259-2297fd181685" /> <img width="867" height="310" alt="image" src="https://github.com/user-attachments/assets/23fc0bc9-86e9-46f5-952a-a4e93481fcee" />
+
+
