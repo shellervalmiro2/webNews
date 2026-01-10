@@ -6,3 +6,12 @@ C:\xampp\php\php.exe demo_load_test.php
 
 Report:
 C:\xampp\php\php.exe final_load_test_report.php
+
+unit
+1. Testes de Unidade (Unit Tests):
+cd /d "D:\shell\fifth Semester\kpo\myWebNews\webNews"
+C:\xampp\php\php.exe phpunit.phar --bootstrap "D:\shell\fifth Semester\kpo\myWebNews\webNews\vendor\autoload.php" --testdox tests/Unit/
+
+2. Testes de Funcionalidade (Feature Tests):
+cd /d "D:\shell\fifth Semester\kpo\myWebNews\webNews"
+C:\xampp\php\php.exe phpunit.phar --bootstrap "D:\shell\fifth Semester\kpo\myWebNews\webNews\vendor\autoload.php" --testdox tests/Feature/
