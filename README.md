@@ -200,11 +200,15 @@
 
 
 #### 6. Результат тестирования
+
+#### 6.1
 <img width="832" height="486" alt="image" src="https://github.com/user-attachments/assets/d2b13506-e7ca-49cb-85d1-52ff704a6cb4" />
 
 
 <img width="872" height="785" alt="image" src="https://github.com/user-attachments/assets/30e17bed-41e6-418d-affc-db9a0fa695be" />
 <img width="867" height="310" alt="image" src="https://github.com/user-attachments/assets/04bf9d77-6136-4864-8259-2297fd181685" /> 
 
+
+#### 6.2 Unit
 <img width="959" height="918" alt="image" src="https://github.com/user-attachments/assets/42af6efd-a727-4ead-9b71-52795de635fa" />
 
